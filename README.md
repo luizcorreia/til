@@ -10,10 +10,17 @@ These are things that don't really warrant a full blog post.
 
 ### Categories
 
-* [MongoDB](#mongodb)
+- [TIL](#til)
+    - [Categories](#categories)
+    - [MongoDB](#mongodb)
+    - [AWS](#aws)
 
 ---
 
 ### MongoDB
 
 - [Determine The Database Version](mongodb/database-version.md)
+
+### AWS
+
+- [Device Connection on aws iot](aws/aws-iot-device-sdk.md)
