@@ -14,6 +14,7 @@ These are things that don't really warrant a full blog post.
     - [Categories](#categories)
     - [MongoDB](#mongodb)
     - [AWS](#aws)
+    - [Linux](#linux)
 
 ---
 
@@ -24,3 +25,7 @@ These are things that don't really warrant a full blog post.
 ### AWS
 
 - [Device Connection on aws iot](aws/aws-iot-device-sdk.md)
+
+### Linux
+
+- [Solution to the HiDPI problem from Davinci Resolve on Linux](linux/Davinci%20Resolve/Solution-to-the-HiDPI-problem-on-Linux.md)
