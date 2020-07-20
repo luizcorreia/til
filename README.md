@@ -15,6 +15,7 @@ These are things that don't really warrant a full blog post.
     - [MongoDB](#mongodb)
     - [AWS](#aws)
     - [Linux](#linux)
+    - [CSS](#css)
 
 ---
 
@@ -29,3 +30,8 @@ These are things that don't really warrant a full blog post.
 ### Linux
 
 - [Solution to the HiDPI problem from Davinci Resolve on Linux](linux/Davinci%20Resolve/Solution-to-the-HiDPI-problem-on-Linux.md)
+- [Beautiful countdown to use on lives](linux/termdown.md)
+
+### CSS
+
+- [10 modern layouts in 1 line of CSS](css/1linelayouts.md)
