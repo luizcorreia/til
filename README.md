@@ -26,6 +26,7 @@ These are things that don't really warrant a full blog post.
 ### AWS
 
 - [Device Connection on aws iot](aws/aws-iot-device-sdk.md)
+- [Upload .env environment variables to elastic beanstalk](aws/aws-eb-setenv.md)
 
 ### Linux
 
