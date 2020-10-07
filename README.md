@@ -16,6 +16,7 @@ These are things that don't really warrant a full blog post.
     - [AWS](#aws)
     - [Linux](#linux)
     - [Frontend](#frontend)
+    - [Development](#development)
 
 ---
 
@@ -37,3 +38,7 @@ These are things that don't really warrant a full blog post.
 
 - [10 modern layouts in 1 line of CSS](frontend/1linelayouts.md)
 - [How use social link debugger](frontend/how-use-debug-from-social.md)
+
+### Development
+
+- [Improve Git Log](development/improve-git-log.md)
