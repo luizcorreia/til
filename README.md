@@ -3,8 +3,8 @@
 > Today I Learned
 
 A collection of concise write-ups on small things I learn day to day across a
-variety of languages and technologies. 
-These are things that don't really warrant a full blog post. 
+variety of languages and technologies.
+These are things that don't really warrant a full blog post.
 
 ---
 
@@ -33,6 +33,7 @@ These are things that don't really warrant a full blog post.
 
 - [Solution to the HiDPI problem from Davinci Resolve on Linux](linux/Davinci%20Resolve/Solution-to-the-HiDPI-problem-on-Linux.md)
 - [Beautiful countdown to use on lives](linux/termdown.md)
+- [Install Docker on Fedora 33](development/install-docker-fedora-33.md)
 
 ### Frontend
 
@@ -42,3 +43,4 @@ These are things that don't really warrant a full blog post.
 ### Development
 
 - [Improve Git Log](development/improve-git-log.md)
+- [Install Docker on Fedora 33](development/install-docker-fedora-33.md)
