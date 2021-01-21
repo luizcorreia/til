@@ -34,6 +34,7 @@ These are things that don't really warrant a full blog post.
 - [Solution to the HiDPI problem from Davinci Resolve on Linux](linux/Davinci%20Resolve/Solution-to-the-HiDPI-problem-on-Linux.md)
 - [Beautiful countdown to use on lives](linux/termdown.md)
 - [Install Docker on Fedora 33](development/install-docker-fedora-33.md)
+- [Change the default language from a app on .desktop file](linux/desktop_entries.md)
 
 ### Frontend
 
