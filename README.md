@@ -35,6 +35,7 @@ These are things that don't really warrant a full blog post.
 - [Beautiful countdown to use on lives](linux/termdown.md)
 - [Install Docker on Fedora 33](development/install-docker-fedora-33.md)
 - [Change the default language from a app on .desktop file](linux/desktop_entries.md)
+- [Kdenlive nvenc video settings for Youtube](linux/Kdenlive/Kdenlive%20nvenc%20video%20settings%20for%20Youtube.md)
 
 ### Frontend
 
